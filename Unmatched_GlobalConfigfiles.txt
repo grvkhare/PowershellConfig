@@ -1,0 +1,36 @@
+
+The following global config files are not matching with the input value: '\C.Report.Package.Connections' 
+
+------------------------------------------------------------------------
+C:\Users\536300\Downloads\Powershell\To\Target\SourceConfig2.dtsConfig
+C:\Users\536300\Downloads\Powershell\To\Target\SourceConfig3.dtsConfig
+C:\Users\536300\Downloads\Powershell\To\Target\SourceConfig4.dtsConfig
+C:\Users\536300\Downloads\Powershell\To\Target\SourceConfig5.dtsConfig
+
+The following global config files are not matching with the input value: 'MOTOROLA' 
+
+------------------------------------------------------------------------
+C:\Users\536300\Downloads\Powershell\To\Target\SourceConfig1.dtsConfig
+C:\Users\536300\Downloads\Powershell\To\Target\SourceConfig2.dtsConfig
+C:\Users\536300\Downloads\Powershell\To\Target\SourceConfig3.dtsConfig
+C:\Users\536300\Downloads\Powershell\To\Target\SourceConfig4.dtsConfig
+C:\Users\536300\Downloads\Powershell\To\Target\SourceConfig5.dtsConfig
+
+The following global config files are not matching with the input value: 'NZOLEDB' 
+
+------------------------------------------------------------------------
+C:\Users\536300\Downloads\Powershell\To\Target\SourceConfig2.dtsConfig
+C:\Users\536300\Downloads\Powershell\To\Target\SourceConfig3.dtsConfig
+C:\Users\536300\Downloads\Powershell\To\Target\SourceConfig4.dtsConfig
+
+The following global config files are matching with the input value: 'MICROSOFT CONNECTION' 
+
+------------------------------------------------------------------------
+
+The following global config files are matching with the input value: 'ssis integration NEWSERVICES' 
+
+------------------------------------------------------------------------
+
+The following global config files are matching with the input value: 'mfgoidw5454545454545454545' 
+
+------------------------------------------------------------------------
